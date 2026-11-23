@@ -1,0 +1,9 @@
+*.msi
+*.log
+*.bak
+*.csv
+*.xlsx
+*.pfx
+*.key
+.env
+credentials*
