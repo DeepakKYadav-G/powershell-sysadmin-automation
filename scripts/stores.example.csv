@@ -1,0 +1,3 @@
+StoreName,StoreIP,AdminUsername,AdminPassword,BackupPath,NASPath
+Store01,192.0.2.21,Administrator,<PASSWORD>,D:\Backups,\\nas01\store-backups\Store01
+Store02,192.0.2.22,Administrator,<PASSWORD>,D:\Backups,\\nas01\store-backups\Store02

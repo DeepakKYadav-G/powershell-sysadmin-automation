@@ -7,3 +7,8 @@
 *.key
 .env
 credentials*
+stores.csv
+Logs/
+
+# keep the placeholder example
+!stores.example.csv
